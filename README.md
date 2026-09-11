@@ -1,7 +1,5 @@
 # SWILL-Customizer
-<p align="center">
-  <img src="">
-</p>
+
 
 <h1 align="center">SWILL Customizer</h1>
 
