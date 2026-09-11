@@ -1,6 +1,3 @@
-# SWILL-Customizer
-
-
 <h1 align="center">SWILL Customizer</h1>
 
 <p align="center">
